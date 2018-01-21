@@ -12,6 +12,6 @@
   </head>
   <body>
   <h1>Remote Col App</h1>
-  <p>Version 1</p>
+  <p>Version 2</p>
   </body>
 </html>
